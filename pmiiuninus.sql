@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 26, 2022 at 02:25 PM
+-- Generation Time: Sep 27, 2022 at 09:37 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.12
 
@@ -210,7 +210,7 @@ CREATE TABLE `tbl_post` (
 INSERT INTO `tbl_post` (`post_id`, `post_title`, `post_description`, `post_contents`, `post_image`, `post_date`, `post_last_update`, `post_category_id`, `post_tags`, `post_slug`, `post_status`, `post_views`, `post_user_id`) VALUES
 (2, 'PMII UNINUS warnai kampus dengan diskusi', 'Media menulis yang saat ini dapat mendukung hal tersebut pun sudah tidak terhitung, baik yang cetak maupun non cetak, segala bentuk platform sudah berkeliaran bebas serta dapat dinikmati oleh masyarakat tanpa batas. ', '<p style=\"text-align: justify; \">Telah dilaksanakan diskusi rutinan setiap minggu yang diselenggarakan oleh Pergerakan Mahasiswa Islam Indonesia komisariat Universitas Islam Nusantara Cabang Kota Bandung. Diskusi tersebut merupakan kegiatan yang digadang-gadang mampu meningkatkan produktivitas mahasiswa untuk dapat menghadapi bonus demografi ke depan.</p><p style=\"text-align: justify; \"><br></p>', '8e3184f7ee997218bde6207100a81b22.jpg', '2022-08-22 17:44:23', NULL, 2, 'pmii,pmiimendunia,kemahasiswaan,kebangsaan,pemuda', 'e-koran-media-komunis-wadah-menulis-untuk-aktivis', 1, 5, 5),
 (3, 'Perlunya Edukasi ASWAJA, PMII UNINUS Adakan Ngaji Mingguan', 'Kader PCI PMII Jerman mengatakan bahwa penyelenggaraan Ngaji Media ini merupakan bentuk upaya meningkatkan kecerdasan dalam bermedia sosial. ', '<p style=\"text-align: justify; \">Pergerakan Mahasiswa Islam Indonesia (PMII) Komisariat Universitas Islam Nusantara telah mengadakan Ngaji Mingguan.&nbsp;</p>', '75e2265b18c01f5c899a856a237afeb3.jpg', '2021-10-22 17:46:21', NULL, 2, 'pmii,keindonesiaan,keislaman,kemahasiswaan,kebangsaan', 'perlunya-edukasi-media--pmii-iain-pontianak-adakan-ngaji-media', 1, 4, 4),
-(4, 'PMII UNINUS Kupas Tuntas Studi Gender', '', '<p style=\"text-align: justify; \">Kajian tentang studi gender selalu menjadi pembahasan yang tidak terlupakan oleh Pergerakan Mahasiswa Islam Indonesia, khususnya di PMII UNINUS. Dalam kegiatan ini PMII menyuarakan kepada mahasiswa agar tidak perlu takut lagi terhadap tindak kekerasan seksual khususnya di wilayah kampus dengan menegakan UU TPKS.</p>', '02cb51b183b493726ef2481c83d43f50.jpg', '2022-05-31 14:26:54', NULL, 3, 'pmii,kemahasiswaan', 'pmii-maju', 1, 4, 6),
+(4, 'PMII UNINUS Kupas Tuntas Studi Gender', '', '<p style=\"text-align: justify; \">Kajian tentang studi gender selalu menjadi pembahasan yang tidak terlupakan oleh Pergerakan Mahasiswa Islam Indonesia, khususnya di PMII UNINUS. Dalam kegiatan ini PMII menyuarakan kepada mahasiswa agar tidak perlu takut lagi terhadap tindak kekerasan seksual khususnya di wilayah kampus dengan menegakan UU TPKS.</p>', '02cb51b183b493726ef2481c83d43f50.jpg', '2022-05-31 14:26:54', NULL, 3, 'pmii,kemahasiswaan', 'pmii-maju', 1, 5, 6),
 (5, 'MAPABA Menjadi Gerbang Awal Ber-PMII', '', '', '36690594b6a7c32fe37d10b25cf20442.jpg', '2022-06-02 13:47:48', NULL, 3, 'pmii,kemahasiswaan,pemuda', 'bukber-bersama', 1, 1, 6),
 (6, 'PMII UNINUS kawal Muspimcab', '', '', '122ed33bd05785c91afd24235daec5a0.jpg', '2022-09-13 16:50:35', NULL, 2, 'pmii', 'pmii-uninus-kawal-muspimcab', 1, 1, 1),
 (7, 'Adakan Pelatihan Desain, PMII UNINUS Mendunia', '', '', '4a38b1c25458729e68c6967dbcb6a337.jpg', '2022-09-13 16:52:00', NULL, 1, 'pmii', 'karya-tulis', 1, 0, 1),
@@ -330,7 +330,8 @@ INSERT INTO `tbl_post_views` (`view_id`, `view_date`, `view_ip`, `view_post_id`)
 (166, '2022-09-25 15:40:11', '127.0.0.1', 12),
 (167, '2022-09-26 04:51:49', '127.0.0.1', 6),
 (168, '2022-09-26 07:05:19', '127.0.0.1', 13),
-(169, '2022-09-26 12:18:13', '127.0.0.1', 10);
+(169, '2022-09-26 12:18:13', '127.0.0.1', 10),
+(170, '2022-09-27 04:02:51', '127.0.0.1', 4);
 
 -- --------------------------------------------------------
 
@@ -502,7 +503,8 @@ INSERT INTO `tbl_user` (`user_id`, `user_name`, `user_email`, `user_password`, `
 (1, 'pmiiuninus', 'pkpmiiuninus.official@gmail.com', 'c650f91b92359af1e6c42d88e944cc36', '', '1', 'logokomi.png'),
 (5, 'Admin Dev', 'admin@gmail.com', 'c650f91b92359af1e6c42d88e944cc36', '1', '1', '225fc323cfd8ddae21b10991a6468916.png'),
 (6, 'PMII UNINUS', 'pmiiuninus@gmail.com', 'c650f91b92359af1e6c42d88e944cc36', '1', '1', '313336989c4723d1938733e9fb9e8012.png'),
-(7, 'rifqi', 'rifqi@gmail.com', '72561baf6079c338cc2dd68e98d52055', '2', '1', 'c90074420a16625ae59342bf0decc792.jpg');
+(7, 'rifqi', 'rifqi@gmail.com', '72561baf6079c338cc2dd68e98d52055', '2', '1', 'c90074420a16625ae59342bf0decc792.jpg'),
+(8, 'Ray', 'rai010303@gmail.com', 'b7dc10efa71eb43068d21b989787c571', '1', '1', '12d48cccfe734a0c6997c0b2fc8f7c66.png');
 
 -- --------------------------------------------------------
 
@@ -651,7 +653,9 @@ INSERT INTO `tbl_visitors` (`visit_id`, `visit_date`, `visit_ip`, `visit_platfor
 (541453, '2022-09-21 03:32:20', '::1', 'Chrome'),
 (541454, '2022-09-25 12:43:36', '127.0.0.1', 'Firefox'),
 (541455, '2022-09-26 03:59:00', '127.0.0.1', 'Firefox'),
-(541456, '2022-09-26 03:59:00', '127.0.0.1', 'Firefox');
+(541456, '2022-09-26 03:59:00', '127.0.0.1', 'Firefox'),
+(541457, '2022-09-27 03:19:13', '::1', 'Firefox'),
+(541458, '2022-09-27 03:21:18', '127.0.0.1', 'Firefox');
 
 --
 -- Indexes for dumped tables
@@ -821,7 +825,7 @@ ALTER TABLE `tbl_post`
 -- AUTO_INCREMENT for table `tbl_post_views`
 --
 ALTER TABLE `tbl_post_views`
-  MODIFY `view_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=170;
+  MODIFY `view_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=171;
 
 --
 -- AUTO_INCREMENT for table `tbl_site`
@@ -857,13 +861,13 @@ ALTER TABLE `tbl_testimonial`
 -- AUTO_INCREMENT for table `tbl_user`
 --
 ALTER TABLE `tbl_user`
-  MODIFY `user_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `user_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 
 --
 -- AUTO_INCREMENT for table `tbl_visitors`
 --
 ALTER TABLE `tbl_visitors`
-  MODIFY `visit_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=541457;
+  MODIFY `visit_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=541459;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
