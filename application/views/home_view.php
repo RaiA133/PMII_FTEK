@@ -119,17 +119,17 @@
 
 <ul class="list-unstyled" style="text-align:justify;">
   
-<li>Sejarah masa lalu adalah cermin masa kini dan masa mendatang. Dokumen historis, merupakan instrumen penting untuk membaca diri. Tidak terkecuali PMII (Pergerakan Mahasiswa Islam Indonesia). Meski dokumen yang disajikan dalam tulisan ini terbilang kurang komplit, sosok organisasi mahasiswa tersebut sudah tergambar dengan jelas. Berikut pemikiran dan sikap- sikapnya.
+<li>
 PMII, yang sering kali disebut Indonesian Moslem Student Movement atau Pergerakan Mahasiswa Islam Indonesia, adalah anak cucu NU (Nahdlatul Ulama) yang terlahir dari kandungan Departemen Perguruan Tinggi Ikatan Pelajar Nahdlatul Ulama (IPNU) yang juga anak dari NU. Status anak cucu ini pun diabadikan dalam sebuah dokumen yang dibuat di Surabaya, tepatnya di Taman Pendidikan Putri Khadijah pada tanggal 17 April 1960 bertepatan dengan tanggal 21 Syawal 1379 H.</li> 
 
 <br>
 
-<li>Meski begitu, bukan berarti lahirnya PMII berjalan mulus, banyak sekali hambatan dan rintangan yang dihadapinya. Hasrat untuk mendirikan organisasi kemahasiswaan memang sudah lama bergejolak di kalangan pemuda NU, namun pihak PBNU belum memberikan lampu hijau (green light), mereka menganggap belum perlu adanya suatu organisasi tersendiri untuk mewadahi anak-anak NU yang belajar di Perguruan Tinggi.
-Namun semangat anak-anak muda itu tak pernah kendor, bahkan terus berkobar dari kampus ke kampus. Kondisi ini adalah hal yang niscaya mengingat kondisi sosial politik pada dasawarsa ‘50-an memang sangat memungkinkan untuk melahirkan organisasi baru. Banyak organisasi mahasiswa bermunculan di bawah payung induknya, seperti SEMMI (dengan PSII), KAMMI (dengan PERTI), HMI (lebih dekat ke MASYUMI), IMM (dengan Muhammadiyah), dan HIMMAH (dengan al-Washliyah). Wajar jika anak-anak NU khususnya yang berada di perguruan tinggi kemudian ingin mendirikan wadah sendiri dan bernaung di bawah panji dunia. Di Jakarta pada bulan Desember 1955, berdirilah Ikatan Mahasiswa Nahdlatul Ulama (IMANU) yang dipelopori oleh Wa’il Harits Sugianto.Sedangkan di Surakarta berdiri KMNU (Keluarga Mahasiswa Nahdhatul Ulama) yang dipelopori oleh Mustahal Ahmad.</li>
+<li>Hasrat untuk mendirikan organisasi kemahasiswaan memang sudah lama bergejolak di kalangan pemuda NU, namun pihak PBNU belum memberikan lampu hijau (green light), mereka menganggap belum perlu adanya suatu organisasi tersendiri untuk mewadahi anak-anak NU yang belajar di Perguruan Tinggi.
+Namun semangat anak-anak muda itu tak pernah kendor, bahkan terus berkobar dari kampus ke kampus. Kondisi ini adalah hal yang niscaya mengingat kondisi sosial politik pada dasawarsa ‘50-an memang sangat memungkinkan untuk melahirkan organisasi baru.Di Jakarta pada bulan Desember 1955, berdirilah Ikatan Mahasiswa Nahdlatul Ulama (IMANU) yang dipelopori oleh Wa’il Harits Sugianto. Sedangkan di Surakarta berdiri KMNU (Keluarga Mahasiswa Nahdhatul Ulama) yang dipelopori oleh Mustahal Ahmad.</li>
 
 <br>  
 
-<li>Namun keberadaan kedua organisasi mahasiswa tersebut tidak direstui bahkan ditentang oleh Pimpinan Pusat IPNU dan PBNU dengan alasan IPNU baru saja berdiri dua tahun sebelumnya yakni tanggal 24 Februari 1954 di Semarang. IPNU punya kekhawatiran jika IMANU dan KMNU akan memperlemah eksistensi IPNU. Di antara sekian banyak pertimbangannnya antara lain; kekhawatiran PBNU terhadap waktu, sumber daya manusia, pembagian tugas, dan efektifitas organisasi. Karenanya menjadi wajar kalau pengurus PBNU monolak karena takut terjadi rangkap jabatan dimana akan berdampak terbengkalainya sebagian yang lain dalam kinerjanya.
+<li>Namun keberadaan kedua organisasi mahasiswa tersebut tidak direstui bahkan ditentang oleh Pimpinan Pusat IPNU dan PBNU dengan alasan IPNU baru saja berdiri dua tahun sebelumnya yakni tanggal 24 Februari 1954 di Semarang. IPNU punya kekhawatiran jika IMANU dan KMNU akan memperlemah eksistensi IPNU.
 Gagasan pendirian organisasi mahasiswa NU muncul kembali pada Muktamar II IPNU di Pekalongan (1-5 Januari 1957). Gagasan ini pun kembali ditentang karena dianggap akan menjadi pesaing bagi IPNU.</li>
 
 <br>
@@ -154,7 +154,7 @@ Baru setelah wadah "departemen" itu dinilai tidak efektif, tidak cukup kuat untu
     </ul>
     <br>
   </li>
-  <li>Keputusan lainnya adalah tiga mahasiswa yaitu Hizbulloh Huda, M. Said Budairy, dan Makmun Syukri untuk sowan ke Ketua Umum PBNU kala itu, KH. Idham Kholid.
+  <li>
 Bertepatan dengan itu, Ketua Umum PBNU, KH. Idham Cholid, memberikan lampu hijau (green light). Bahkan KH. Idham Cholid membakar semangat pula agar mahasiswa NU menjadi kader partai, menjadi mahasiswa yang berprinsip ilmu untuk diamalkan, bukan ilmu untuk ilmu.
 Selanjutnya pada tanggal 14-16 April 1960 diakan musyawarah Mahasiswa NU di sekolah Mualimat NU (1954-1960) yang sekarang bernama Yayasan Khadijah Surabaya. Adapun hasil dari musyawarah tersebut ialah : </li> <br>
     <ul>
