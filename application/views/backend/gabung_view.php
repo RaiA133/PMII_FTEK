@@ -311,7 +311,7 @@ Array.from(forms)
   icon: 'success',
   title: 'Selamat anda berhasil daftar',
   text: 'Silahkan klik link dibawah ini untuk gabung group',
-  footer: '<a href="https://chat.whatsapp.com/EbEUKqq5CrC0tKUKeWXvHq">Link</a>'
+  footer: '<a href="https://chat.whatsapp.com/K9IkQbi1EEWEaYNNdnSApm">Link</a>'
 })
         </script>
     <?php elseif ($this->session->flashdata('msg') == 'info') : ?>

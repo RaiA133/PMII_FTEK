@@ -95,7 +95,6 @@
             </div>
         </div><!-- Page Inner -->
     </main><!-- Page Content -->
-
     <!--DELETE RECORD MODAL-->
     <form action="<?php echo site_url('backend/post/delete'); ?>" method="post">
         <div class="modal fade" id="DeleteModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
