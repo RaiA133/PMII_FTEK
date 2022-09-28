@@ -71,7 +71,7 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                             <!-- <div class="icon"><i class="bx bxl-dribbble"></i></div>  -->
                             <h4 class="title" text-align="center"><a href=""></a></h4> 
-                                <p>
+                                <p class="tujuan-pmii">
                                 Terbentuknya pribadi muslim Indonesia yang bertakwa kepada Allah SWT., berbudi luhur, berilmu,
                                 cakap dan bertanggung jawab dalam mengamalkan ilmunya serta komitmen memperjuangkan cita-cita kemerdekaan indonesia
                                 </p>
