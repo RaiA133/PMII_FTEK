@@ -120,7 +120,7 @@
 <ul class="list-unstyled" style="text-align:justify;">
   
 <li>
-PMII, yang sering kali disebut Indonesian Moslem Student Movement atau Pergerakan Mahasiswa Islam Indonesia, adalah anak cucu NU (Nahdlatul Ulama) yang terlahir dari kandungan Departemen Perguruan Tinggi Ikatan Pelajar Nahdlatul Ulama (IPNU) yang juga anak dari NU. Status anak cucu ini pun diabadikan dalam sebuah dokumen yang dibuat di Surabaya, tepatnya di Taman Pendidikan Putri Khadijah pada tanggal 17 April 1960 bertepatan dengan tanggal 21 Syawal 1379 H.</li> 
+PMII, yang sering kali disebut <i>Indonesian Moslem Student Movement</i> atau Pergerakan Mahasiswa Islam Indonesia, adalah anak cucu NU (Nahdlatul Ulama) yang terlahir dari kandungan Departemen Perguruan Tinggi Ikatan Pelajar Nahdlatul Ulama (IPNU) yang juga anak dari NU. Status anak cucu ini pun diabadikan dalam sebuah dokumen yang dibuat di Surabaya, tepatnya di Taman Pendidikan Putri Khadijah pada tanggal 17 April 1960 bertepatan dengan tanggal 21 Syawal 1379 H.</li> 
 
 <br>
 
