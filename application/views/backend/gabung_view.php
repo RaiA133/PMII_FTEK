@@ -205,11 +205,7 @@ html, body {
     min-width: 640px;
 }
 }
-@media screen and (max-height: 667px){
-body{
-    background-color:yellow;
-}
-}
+
 </style>
 <body>
 <div class="form-body">
