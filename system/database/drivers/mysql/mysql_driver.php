@@ -198,6 +198,7 @@ class CI_DB_mysql_driver extends CI_DB {
 	 * @param	string	$database
 	 * @return	bool
 	 */
+	
 	public function db_select($database = '')
 	{
 		if ($database === '')
