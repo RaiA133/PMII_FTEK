@@ -54,7 +54,7 @@
                                 <button type="submit" class="btn btn-success btn-block">Login</button>
 
                             </form>
-                            <p class="text-center m-t-xs text-sm"><?php echo date('Y'); ?> &copy; Design by Firdaus Nur.</p>
+                            <p class="text-center m-t-xs text-sm"><?php echo date('Y'); ?> &copy; Design by Biro Media Teknik.</p>
                         </div>
                     </div>
                 </div><!-- Row -->
