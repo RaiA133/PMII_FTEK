@@ -62,35 +62,48 @@
 
                 <div class="row">
                     
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                    <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="<?= base_url() ?>assets/frontend/dokumen/AD-ART.pdf" target="_blank">AD/ART</a></h4>
+                            <!-- <div class="icon"><i class="bx bxl-dribbble"></i></div> 
+                            <iframe src="https://drive.google.com/file/d/1o7fw_QV1JOTZZ0xY0fuUe3uj-lH_cbky/preview" width="" height="" allow="autoplay"></iframe>
+                                <h4>AD/ART</h4>
                             <p>Hasil Kongres PMII di Balikpapan tahun 2021</p>
+                        </div>
+                    </div> -->
+
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="icon-box">
+                            <!-- <div class="icon"><i class="bx bx-file"></i></div> -->
+                            <iframe src="https://drive.google.com/file/d/1o7fw_QV1JOTZZ0xY0fuUe3uj-lH_cbky/preview" width="" height="" allow="autoplay"></iframe>
+                            <h4>AD/ART</a></h4>
+                            <p>Hasil Kongres Pergerakan Mahasiswa Islam Indonesia di Balikpapan tahun 2021</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4><a href="https://drive.google.com/drive/folders/1w9rbygmZSCWBiiJf7WAYMBYnDkrYwyZ0?usp=sharing" target="_blank">Peraturan Organisasi</a></h4>
+                            <!-- <div class="icon"><i class="bx bx-file"></i></div> -->
+                            <iframe src="https://drive.google.com/file/d/1d-T7hETsUV0RFE3WC9tkutvK-_e3ffke/preview" width="" height="" allow="autoplay"></iframe>
+                            <h4>Peraturan Organisasi</a></h4>
                             <p>Hasil Musyawarah Pimpinan Nasional di Boyolali tahun 2019</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="https://drive.google.com/drive/folders/1wHzqLo0xhUHyc2p_-6bf48Q9TsNwQfzr?usp=sharing" target="_blank">Hasil Muspimcab</a></h4>
+                            <!-- <div class="icon"><i class="bx bx-tachometer"></i></div> -->
+                            <iframe src="https://drive.google.com/file/d/1wOu2A5qPu6woEc5_5XfB6vCEOD2-VxoQ/preview" width="" height="" allow="autoplay"></iframe>
+                            <h4>Hasil Muspimcab</a></h4>
                             <p>Hasil Musyawarah Pimpinan Cabang PMII Kota Bandung tahun 2020</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-world"></i></div>
-                            <h4><a href="https://drive.google.com/drive/folders/1K1NxGOrUbQ3lEHfn8doohP7aWelKy2zC?usp=sharing" target="_blank">Draft RTK</a></h4>
-                            <p>Rapat Tahunan Komisariat Universitas Islam Nusantara tahun 2021</p>
+                            <!-- <div class="icon"><i class="bx bx-world"></i></div> -->
+                            <iframe src="https://drive.google.com/file/d/1U__jKoKat1OIyR5eHVp1KE4ULZ-M6bNs/preview" width="" height="" allow="autoplay"></iframe>
+                            <h4>Draft RTAR</a></h4>
+                            <p>Rapat Tahunan Anggota Rayon Fakultas Teknik Komisariat Universitas Islam Nusantara tahun 2022</p>
                         </div>
                     </div>
 
