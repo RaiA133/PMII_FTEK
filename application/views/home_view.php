@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"> <!--  ukuran konten dekstop == mobile -->
 
     <title><?= $site_name; ?> | <?= $site_title; ?></title>
     <meta content="<?= $site_desc; ?>" name="description">
