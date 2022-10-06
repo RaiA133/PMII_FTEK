@@ -254,66 +254,68 @@
                             <div class="panel-body">
                                 <button type="button" class="btn btn-success m-b-sm" data-toggle="modal" data-target="#myModal">Add New User</button>
 
-                                <table id="mytable" class="display table" style="width: 100%; ">
-                                    <thead>
-                                        <tr>
-                                            <th>No</th>
-                                            <th>Photo</th>
-                                            <th>Name</th>
-                                            <th>Username</th>
-                                            <th>Password</th>
-                                            <th>Level</th>
-                                            <th>Status</th>
-                                            <th>Action</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <?php
-                                        $no = 0;
-                                        foreach ($data->result() as $row) :
-                                            $no++;
-                                        ?>
+                                <div class="table-responsive">
+                                    <table id="mytable" class="display table" style="width: 100%; ">
+                                        <thead>
                                             <tr>
-                                                <td style="vertical-align: middle;"><?php echo $no; ?></td>
-                                                <td style="vertical-align: middle;">
-                                                    <?php if (empty($row->user_photo)) : ?>
-                                                        <img class="img-circle" width="50" src="<?php echo base_url() . 'assets/backend/images/user_blank.png'; ?>">
-                                                    <?php else : ?>
-                                                        <img class="img-circle" width="50" src="<?php echo base_url() . 'assets/backend/images/' . $row->user_photo; ?>">
-                                                    <?php endif; ?>
-                                                </td>
-                                                <td style="vertical-align: middle;"><?php echo $row->user_name; ?></td>
-                                                <td style="vertical-align: middle;"><?php echo $row->user_email; ?></td>
-                                                <td style="vertical-align: middle;"><?php echo $row->user_password; ?></td>
-                                                <td style="vertical-align: middle;">
-                                                    <?php
-                                                    if ($row->user_level == '1') {
-                                                        echo "Administrator";
-                                                    } else {
-                                                        echo "Author";
-                                                    }
-                                                    ?>
-                                                </td>
-                                                <?php if ($row->user_status == '1') : ?>
-                                                    <td style="vertical-align: middle;"><a href="<?php echo base_url() . 'backend/users/lock/' . $row->user_id; ?>" class="btn"><span class="icon-lock-open" title="Unlock"></span></a></td>
-                                                <?php else : ?>
-                                                    <td style="vertical-align: middle;"><a href="<?php echo base_url() . 'backend/users/unlock/' . $row->user_id; ?>" class="btn"><span class="icon-lock" title="Locked"></span></a></td>
-                                                <?php endif; ?>
-                                                <td style="vertical-align: middle;">
-                                                    <div class="btn-group">
-                                                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                                                            Action <span class="caret"></span>
-                                                        </button>
-                                                        <ul class="dropdown-menu dropdown-menu-right" role="menu">
-                                                            <li><a href="javascript:void(0);" data-toggle="modal" data-target="#ModalEdit<?php echo $row->user_id; ?>"><span class="icon-pencil"></span> Edit</a></li>
-                                                            <li><a href="javascript:void(0);" class="delete" data-userid="<?php echo $row->user_id; ?>"><span class="icon-trash"></span> Delete</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </td>
+                                                <th>No</th>
+                                                <th>Photo</th>
+                                                <th>Name</th>
+                                                <th>Username</th>
+                                                <th>Password</th>
+                                                <th>Level</th>
+                                                <th>Status</th>
+                                                <th>Action</th>
                                             </tr>
-                                        <?php endforeach; ?>
-                                    </tbody>
-                                </table>
+                                        </thead>
+                                        <tbody>
+                                            <?php
+                                            $no = 0;
+                                            foreach ($data->result() as $row) :
+                                                $no++;
+                                            ?>
+                                                <tr>
+                                                    <td style="vertical-align: middle;"><?php echo $no; ?></td>
+                                                    <td style="vertical-align: middle;">
+                                                        <?php if (empty($row->user_photo)) : ?>
+                                                            <img class="img-circle" width="50" src="<?php echo base_url() . 'assets/backend/images/user_blank.png'; ?>">
+                                                        <?php else : ?>
+                                                            <img class="img-circle" width="50" src="<?php echo base_url() . 'assets/backend/images/' . $row->user_photo; ?>">
+                                                        <?php endif; ?>
+                                                    </td>
+                                                    <td style="vertical-align: middle;"><?php echo $row->user_name; ?></td>
+                                                    <td style="vertical-align: middle;"><?php echo $row->user_email; ?></td>
+                                                    <td style="vertical-align: middle;"><?php echo $row->user_password; ?></td>
+                                                    <td style="vertical-align: middle;">
+                                                        <?php
+                                                        if ($row->user_level == '1') {
+                                                            echo "Administrator";
+                                                        } else {
+                                                            echo "Author";
+                                                        }
+                                                        ?>
+                                                    </td>
+                                                    <?php if ($row->user_status == '1') : ?>
+                                                        <td style="vertical-align: middle;"><a href="<?php echo base_url() . 'backend/users/lock/' . $row->user_id; ?>" class="btn"><span class="icon-lock-open" title="Unlock"></span></a></td>
+                                                    <?php else : ?>
+                                                        <td style="vertical-align: middle;"><a href="<?php echo base_url() . 'backend/users/unlock/' . $row->user_id; ?>" class="btn"><span class="icon-lock" title="Locked"></span></a></td>
+                                                    <?php endif; ?>
+                                                    <td style="vertical-align: middle;">
+                                                        <div class="btn-group">
+                                                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                                                Action <span class="caret"></span>
+                                                            </button>
+                                                            <ul class="dropdown-menu dropdown-menu-right" role="menu">
+                                                                <li><a href="javascript:void(0);" data-toggle="modal" data-target="#ModalEdit<?php echo $row->user_id; ?>"><span class="icon-pencil"></span> Edit</a></li>
+                                                                <li><a href="javascript:void(0);" class="delete" data-userid="<?php echo $row->user_id; ?>"><span class="icon-trash"></span> Delete</a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            <?php endforeach; ?>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
 
