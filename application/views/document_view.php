@@ -115,13 +115,14 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <!-- DATABASE NAMA & KETERANGAN KADER 2022 (DI HIDDEN) -->
+                    <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-arch"></i></div>
                             <h4><a href="<?= base_url('gabung/anggota_aktif'); ?>">Database Kader</a></h4>
                             <p>Database Kader PMII Universitas Islam Nusantara</p>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 
