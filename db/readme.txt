@@ -1,0 +1,1 @@
+hiduplah seperti gula, memberi rasa tanpa mengharap nama
